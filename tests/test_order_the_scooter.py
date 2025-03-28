@@ -19,7 +19,7 @@ class TestMakeAnOrder:
             credentials['comment']
         )
         order_page.wait_order_created()
-        assert order_page.wait_for_find_element
+        assert order_page.wait_for_find_element()
 
 
 

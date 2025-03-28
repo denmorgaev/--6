@@ -1,8 +1,8 @@
 credentials_1 = {
-    "name": "Олеся",
-    "last_name": 'Сухова',
+    "name": "Денис",
+    "last_name": 'Иванов',
     "address": 'Петрова, 3',
-    "phone_number": '89211234567',
+    "phone_number": '89211234222',
     "comment": 'Хорошего дня!',
 }
 
@@ -10,7 +10,7 @@ credentials_2 = {
     "name": "Марина",
     "last_name": 'Петрова',
     "address": 'Круглая, 5',
-    "phone_number": '89110987654',
+    "phone_number": '89110982323',
     "comment": 'Жду самокат!',
 }
 
